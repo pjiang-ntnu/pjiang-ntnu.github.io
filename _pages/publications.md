@@ -4,8 +4,8 @@ permalink: /publications/
 usemathjax: true
 title: "Publications"
 header:
-  overlay_image: "/assets/images/vladimir-anikeev-IM8ZyYaSW6g-unsplash.jpg"
-  caption: "Photo by Vladimir Anikeev on Unsplash"
+  overlay_image: "/assets/images/mountains.jpeg"
+  caption: "At Mt. Shaolai/Photo by PJiang"
 ---
 
 * [Pei-hsun Jiang @ Google Scholar](https://scholar.google.com/citations?hl=en&user=XMiB24UAAAAJ&sortby=pubdate)

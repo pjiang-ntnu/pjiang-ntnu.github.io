@@ -3,8 +3,8 @@ layout: splash
 permalink: /people/
 title: "People"
 header:
-  overlay_image: "/assets/images/rawpixel-781987-unsplash.jpg"
-  caption: "Photo by rawpixel on Unsplash"
+  overlay_image: "/assets/images/sun.jpeg"
+  caption: "St. Marks Refuge/Photo by PJiang"
 ---
 
 
