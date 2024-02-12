@@ -13,7 +13,7 @@ header:
 ----------------------
 
 <ol reversed>
-<li> W.-C. Lin, P.-Y. Tsai, J.-Z. Zou, J.-Y. Lee, C.-W. Kuo, H.-. Lee, C.-Y. Pan, C.-H. Yang, S.-Z. Chen, J.-S. Wang*, <b>P. Jiang</b>*, C.-T. Liang*, and C. Chuang*, Chiral anomaly and Weyl orbit in three-dimensional Dirac semimetal Cd3As2 grown on Si, accepted by Nanotechnology.
+<li> W.-C. Lin, P.-Y. Tsai, J.-Z. Zou, J.-Y. Lee, C.-W. Kuo, H.-. Lee, C.-Y. Pan, C.-H. Yang, S.-Z. Chen, J.-S. Wang*, <b>P. Jiang</b>*, C.-T. Liang*, and C. Chuang*, Chiral anomaly and Weyl orbit in three-dimensional Dirac semimetal Cd<sub>3</sub>As<sub>2</sub> grown on Si, accepted by Nanotechnology.
 
 <li> W.-H. Wang, C.-Y. Pan, C.-M. Liu, W.-C. Lin*, and <b>P. Jiang</b>*, Chirality-Induced Noncollinear Magnetization and Asymmetric Domain-Wall Propagation in Hydrogenated CoPd Thin Films, ACS Appl. Mater. Interfaces <b>14</b>, 20151 (2022). (Invited talk [video](https://drive.google.com/file/d/1fOm8GiVJSlHF7kvDjN13logfFPzAM3z9/view).)
 
@@ -54,4 +54,3 @@ header:
 <li> <b>P. Jiang</b>*, I. Yang, W. Kang, L. N. Pfeiffer, K. W. Baldwin, and K. W. West, Low energy dynamics of two-dimensional lateral tunnel junctions, Proceedings of the 16th International Conference on Electronic Properties of Two-Dimensional Systems (EP2DS-16), Physica E <b>34</b>, 203 (2006).
 
 <li> <b>P. Jiang</b>*, I. Yang, W. Kang, L. N. Pfeiffer, K. W. Baldwin, and K. W. West, Interaction effects and pseudogap in two-dimensional lateral tunnel junctions, Phys. Rev. Lett. <b>96</b>, 126804 (2006).
-</ol>
