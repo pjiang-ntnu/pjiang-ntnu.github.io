@@ -33,7 +33,7 @@ header:
 
 <li> W.-H. Wang, S.-R. Lyu, E. Heredia, S.-H. Liu, <b>P. Jiang</b>*, P.-Y. Liao, and T.-C. Chang, Universal dependence on the channel conductivity of the competing weak localization and antilocalization in amorphous InGaZnO<sub>4</sub> thin-film transistors, Appl. Phys. Express <b>10</b>, 051103 (2017).
 
-<li> W.-H. Wang, S.-R. Lyu, E. Heredia, S.-H. Liu, </b>P. Jiang</b>*, P.-Y. Liao, T.-C. Chang, and H.-M. Chen, Competing weak localization and weak antilocalization in amorphous indium–gallium–zinc-oxide thin-film transistors, Appl. Phys. Lett. </b>110</b>, 022106 (2017).
+<li> W.-H. Wang, S.-R. Lyu, E. Heredia, S.-H. Liu, <b>P. Jiang</b>*, P.-Y. Liao, T.-C. Chang, and H.-M. Chen, Competing weak localization and weak antilocalization in amorphous indium–gallium–zinc-oxide thin-film transistors, Appl. Phys. Lett. <b>110</b>, 022106 (2017).
 
 <li> Y.-W. Lan*, W.-H. Chang, B.-T. Xiao, B.-W. Liang, J.-H. Chen, <b>P. Jiang</b>, L.-J. Li, Y.-W. Su, Y.-L. Zhong, C.-D. Chen*, Polymer-free patterning of graphene at sub-10-nm scale by low-energy repetitive electron beam, Small <b>10</b>, 4778 (2014).
 
