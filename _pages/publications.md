@@ -13,6 +13,8 @@ header:
 ----------------------
 
 <ol reversed>
+<li> W.-C. Lin, P.-Y. Tsai, J.-Z. Zou, J.-Y. Lee, C.-W. Kuo, H.-. Lee, C.-Y. Pan, C.-H. Yang, S.-Z. Chen, J.-S. Wang*, <b>P. Jiang</b>*, C.-T. Liang*, and C. Chuang*, Chiral anomaly and Weyl orbit in three-dimensional Dirac semimetal Cd3As2 grown on Si, accepted by Nanotechnology.
+
 <li> W.-H. Wang, C.-Y. Pan, C.-M. Liu, W.-C. Lin*, and <b>P. Jiang</b>*, Chirality-Induced Noncollinear Magnetization and Asymmetric Domain-Wall Propagation in Hydrogenated CoPd Thin Films, ACS Appl. Mater. Interfaces <b>14</b>, 20151 (2022).	
 	
 <li> W.-H. Wang, Y.-S. Cheng, H.-S. Sheu, W.-C. Lin*, and <b>P. Jiang</b>*, Exchange-bias dependent diffusion rate of hydrogen discovered from evolution of hydrogen-induced noncollinear magnetic anisotropy in FePd thin films, Phys. Rev. B <b>104</b>, 224420 (2021).
