@@ -19,11 +19,9 @@ header:
 
 <li> W.-H. Wang, Y.-S. Cheng, H.-S. Sheu, W.-C. Lin*, and <b>P. Jiang</b>*, Exchange-bias dependent diffusion rate of hydrogen discovered from evolution of hydrogen-induced noncollinear magnetic anisotropy in FePd thin films, Phys. Rev. B <b>104</b>, 224420 (2021).
 	
-<li> C.-H. Chung, S.-D. Chung, Y.-H. Cheng, W.-H. Wang, <b>P. Jiang</b>, C.-P. Yang, and C.-T. Chien*, Long-Lasting Exendin-4-Loaded PLGA Nanoparticles Ameliorate Cerebral Ischemia/Reperfusion Evoked Brain Injury and Voiding Dysfunction in Diabetic Rats, <a href="https://www.researchsquare.com/article/rs-929309/v1">preprint</a>.
-	
 <li> W.-H. Wang, C.-M. Liu, T.-H. Chuang, D.-H. Wei, W.-C. Lin*, and <b>P. Jiang</b>*, Dependence of magnetic domain patterns on plasma-induced differential oxidation of CoPd thin films, Surf. Interfaces <b>27</b>, 101582 (2021).
 	
-<li> M.-H. Peng, C.-Y. Pan, H.-X. Zheng, T.-C. Chang, and <b>P. Jiang</b>*, Dynamic Behaviors and Training Effects in TiN/Ti/HfO<sub><italic>x</italic></sub>/TiN-Nanolayered Memristors with Controllable Quantized Conductance States: Implications for Quantum and Neuromorphic Computing Devices, ACS Appl. Nano Mater. <b>4</b>, 11296 (2021).
+<li> M.-H. Peng, C.-Y. Pan, H.-X. Zheng, T.-C. Chang, and <b>P. Jiang</b>*, Dynamic Behaviors and Training Effects in TiN/Ti/HfO<sub><italic>x</italic></sub>/TiN-Nanolayered Memristors with Controllable Quantized Conductance States: Implications for Quantum and Neuromorphic Computing Devices, ACS Appl. Nano Mater. <b>4</b>, 11296 (2021). (Introduction <a href="https://www.youtube.com/watch?v=x9E5QOhjGtE">video</a>for high-school students.)
 	
 <li> W.-H. Wang, P.-C. Chang, <b>P. Jiang</b>*, and W.-C. Lin*, Plasma-induced magnetic patterning of FePd thin films without and with exchange bias, Appl. Surf. Sci. <b>527</b>, 146831 (2020).
 	
@@ -45,7 +43,7 @@ header:
 
 <li> H. Zhu*, Y. P. Chen, <b>P. Jiang</b>, L. W. Engel, D.C. Tsui, L. N. Pfeiffer, and K. W. West, Observation of pinning mode in a Wigner solid with ν = 1/3 fractional quantum Hall excitations, Phys. Rev. Lett. <b>105</b>, 126803 (2010).
 
-<li> H. Zhu*, G. Sambandamurthy, Y. P. Chen, <b>P. Jiang</b>, L. W. Engel, D.C. Tsui, L. N. Pfeiffer, and K. W. West, Pinning-mode resonance of a Skyrme crystal near Landau level filling factor ν = 1, Phys. Rev. Lett. <b>104</b>, 226801 (2010).
+<li> H. Zhu*, G. Sambandamurthy, Y. P. Chen, <b>P. Jiang</b>, L. W. Engel, D.C. Tsui, L. N. Pfeiffer, and K. W. West, Pinning-mode resonance of a Skyrme crystal near Landau level filling factor <italic>ν</italic> = 1, Phys. Rev. Lett. <b>104</b>, 226801 (2010).
 
 <li> M. D. Godfrey, <b>P. Jiang</b>, W. Kang, S. H. Simon, K. W. Baldwin, L. N. Pfeiffer, and K. W. West, Aharonov–Bohm-like oscillations in quantum Hall corrals, arXiv:cond-mat/0708.2448.
 
