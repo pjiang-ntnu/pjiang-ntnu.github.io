@@ -21,7 +21,7 @@ header:
 	
 <li> W.-H. Wang, C.-M. Liu, T.-H. Chuang, D.-H. Wei, W.-C. Lin*, and <b>P. Jiang</b>*, Dependence of magnetic domain patterns on plasma-induced differential oxidation of CoPd thin films, Surf. Interfaces <b>27</b>, 101582 (2021).
 	
-<li> M.-H. Peng, C.-Y. Pan, H.-X. Zheng, T.-C. Chang, and <b>P. Jiang</b>*, Dynamic Behaviors and Training Effects in TiN/Ti/HfO<sub><italic>x</italic></sub>/TiN-Nanolayered Memristors with Controllable Quantized Conductance States: Implications for Quantum and Neuromorphic Computing Devices, ACS Appl. Nano Mater. <b>4</b>, 11296 (2021). (Introduction <a href="https://www.youtube.com/watch?v=x9E5QOhjGtE">video</a>for high-school students.)
+<li> M.-H. Peng, C.-Y. Pan, H.-X. Zheng, T.-C. Chang, and <b>P. Jiang</b>*, Dynamic Behaviors and Training Effects in TiN/Ti/HfO<sub><italic>x</italic></sub>/TiN-Nanolayered Memristors with Controllable Quantized Conductance States: Implications for Quantum and Neuromorphic Computing Devices, ACS Appl. Nano Mater. <b>4</b>, 11296 (2021). (Introduction <a href="https://www.youtube.com/watch?v=x9E5QOhjGtE">video</a> for high-school students.)
 	
 <li> W.-H. Wang, P.-C. Chang, <b>P. Jiang</b>*, and W.-C. Lin*, Plasma-induced magnetic patterning of FePd thin films without and with exchange bias, Appl. Surf. Sci. <b>527</b>, 146831 (2020).
 	
