@@ -35,11 +35,16 @@ header:
 
 * 邱久翔 (40941129s@gapps.ntnu.edu.tw)
 * 林士凱 (andyandy1114@gmail.com)
-* 林柔穎（41077004h@gapps.ntnu.edu.tw）
-
+* 林柔穎 (41077004h@gapps.ntnu.edu.tw)
+* 尤仁宏 (41041101s@gapps.ntnu.edu.tw)
+* 呂卓穎 (jefflujefflu@gmail.com)
 
 # Alumni
 
+* 熊軒諒
+  * 2023 Master
+* 吳承恩
+  * 2023 Master
 * Wei-Hsiang Wang 王韋翔 (a29782860@gmail.com)
   * 2021 PhD
   * ⟹  Postdoc @ NSYSU Physics
