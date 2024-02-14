@@ -7,6 +7,24 @@ header:
   overlay_image: "/assets/images/mountains.jpeg"
   caption: "At Mt. Shaolai/Photo by PJiang"
 ---
+<!-- Default Statcounter code for ntnu2
+https://pjiang-ntnu.github.io/ -->
+<script type="text/javascript">
+var sc_project=12967310; 
+var sc_invisible=1; 
+var sc_security="96835aa5"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12967310/0/96835aa5/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
 
 * [Pei-hsun Jiang @ Google Scholar](https://scholar.google.com/citations?hl=en&user=XMiB24UAAAAJ&sortby=pubdate)
 
