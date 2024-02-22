@@ -57,6 +57,8 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 # Alumni
 
+* 陳可桀
+  * 2023 Master
 * 熊軒諒
   * 2023 Master
 * 吳承恩
