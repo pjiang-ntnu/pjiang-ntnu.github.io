@@ -63,6 +63,10 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
   * 2023 Master
 * 吳承恩
   * 2023 Master
+* 蔡和家
+  * 2023 Bachelor
+* 周孟荻
+  * 2023 Bachelor
 * Wei-Hsiang Wang 王韋翔 (a29782860@gmail.com)
   * 2021 PhD
   * ⟹  Postdoc @ NSYSU Physics
