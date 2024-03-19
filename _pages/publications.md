@@ -35,13 +35,13 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <ol reversed>
 <li> W.-C. Lin, P.-Y. Tsai, J.-Z. Zou, J.-Y. Lee, C.-W. Kuo, H.-. Lee, C.-Y. Pan, C.-H. Yang, S.-Z. Chen, J.-S. Wang*, <b>P. Jiang</b>*, C.-T. Liang*, and C. Chuang*, Chiral anomaly and Weyl orbit in three-dimensional Dirac semimetal Cd<sub>3</sub>As<sub>2</sub> grown on Si, Nanotechnology <b>35</b>, 165002 (2024).
 
-<li> W.-H. Wang, C.-Y. Pan, C.-M. Liu, W.-C. Lin*, and <b>P. Jiang</b>*, Chirality-Induced Noncollinear Magnetization and Asymmetric Domain-Wall Propagation in Hydrogenated CoPd Thin Films, ACS Appl. Mater. Interfaces <b>14</b>, 20151 (2022). (Invited talk <a href="https://drive.google.com/file/d/1fOm8GiVJSlHF7kvDjN13logfFPzAM3z9/view">video</a>.)
+<li> W.-H. Wang, C.-Y. Pan, C.-M. Liu, W.-C. Lin*, and <b>P. Jiang</b>*, Chirality-Induced Noncollinear Magnetization and Asymmetric Domain-Wall Propagation in Hydrogenated CoPd Thin Films, ACS Appl. Mater. Interfaces <b>14</b>, 20151 (2022). (邀請演講<a href="https://drive.google.com/file/d/1fOm8GiVJSlHF7kvDjN13logfFPzAM3z9/view">影片</a>)
 
 <li> W.-H. Wang, Y.-S. Cheng, H.-S. Sheu, W.-C. Lin*, and <b>P. Jiang</b>*, Exchange-bias dependent diffusion rate of hydrogen discovered from evolution of hydrogen-induced noncollinear magnetic anisotropy in FePd thin films, Phys. Rev. B <b>104</b>, 224420 (2021).
 	
 <li> W.-H. Wang, C.-M. Liu, T.-H. Chuang, D.-H. Wei, W.-C. Lin*, and <b>P. Jiang</b>*, Dependence of magnetic domain patterns on plasma-induced differential oxidation of CoPd thin films, Surf. Interfaces <b>27</b>, 101582 (2021).
 	
-<li> M.-H. Peng, C.-Y. Pan, H.-X. Zheng, T.-C. Chang, and <b>P. Jiang</b>*, Dynamic Behaviors and Training Effects in TiN/Ti/HfO<sub><italic>x</italic></sub>/TiN-Nanolayered Memristors with Controllable Quantized Conductance States: Implications for Quantum and Neuromorphic Computing Devices, ACS Appl. Nano Mater. <b>4</b>, 11296 (2021). (Introduction <a href="https://www.youtube.com/watch?v=x9E5QOhjGtE">video</a> for high-school students.)
+<li> M.-H. Peng, C.-Y. Pan, H.-X. Zheng, T.-C. Chang, and <b>P. Jiang</b>*, Dynamic Behaviors and Training Effects in TiN/Ti/HfO<sub><italic>x</italic></sub>/TiN-Nanolayered Memristors with Controllable Quantized Conductance States: Implications for Quantum and Neuromorphic Computing Devices, ACS Appl. Nano Mater. <b>4</b>, 11296 (2021). (台北科學日<a href="https://www.youtube.com/watch?v=x9E5QOhjGtE">影片</a>)
 	
 <li> W.-H. Wang, P.-C. Chang, <b>P. Jiang</b>*, and W.-C. Lin*, Plasma-induced magnetic patterning of FePd thin films without and with exchange bias, Appl. Surf. Sci. <b>527</b>, 146831 (2020).
 	
