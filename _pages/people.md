@@ -44,16 +44,16 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 # Master Students
 
-* 廖晉 (61041034s@gapps.ntnu.edu.tw)
-* Ching-Yang Pan 潘敬揚 (61141001s@ntnu.edu.tw)
+* 廖晉 <span style="font-size:80%;">(61041034s@gapps.ntnu.edu.tw)</span>
+* Ching-Yang Pan 潘敬揚 <span style="font-size:80%;">(61141001s@ntnu.edu.tw)</span>
 
 # Undergraduate Students
 
-* 邱久翔 (40941129s@gapps.ntnu.edu.tw)
-* 林士凱 (andyandy1114@gmail.com)
-* 林柔穎 (41077004h@gapps.ntnu.edu.tw)
-* 尤仁宏 (41041101s@gapps.ntnu.edu.tw)
-* 呂卓穎 (jefflujefflu@gmail.com)
+* 邱久翔 <span style="font-size:80%;">(40941129s@gapps.ntnu.edu.tw)</span>
+* 林士凱 <span style="font-size:80%;">(andyandy1114@gmail.com)</span>
+* 林柔穎 <span style="font-size:80%;">(41077004h@gapps.ntnu.edu.tw)</span>
+* 尤仁宏 <span style="font-size:80%;">(41041101s@gapps.ntnu.edu.tw)</span>
+* 呂卓穎 <span style="font-size:80%;">(jefflujefflu@gmail.com)</span>
 
 # Alumni
 
