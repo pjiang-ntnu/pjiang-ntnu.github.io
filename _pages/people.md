@@ -45,22 +45,35 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 # Master Students
 
 * 廖晉 <span style="font-size:80%;">(61041034s@gapps.ntnu.edu.tw)</span>
-* Ching-Yang Pan 潘敬揚 <span style="font-size:80%;">(61141001s@ntnu.edu.tw)</span>
+* 陳冠霖 <span style="font-size:80%;">(davidkevin1165@gmail.com)</span>
+* 王同 <span style="font-size:80%;">(john9243257@gmail.com)</span>
+
 
 # Undergraduate Students
 
-* 邱久翔 <span style="font-size:80%;">(40941129s@gapps.ntnu.edu.tw)</span>
-* 林士凱 <span style="font-size:80%;">(andyandy1114@gmail.com)</span>
-* 林柔穎 <span style="font-size:80%;">(41077004h@gapps.ntnu.edu.tw)</span>
 * 尤仁宏 <span style="font-size:80%;">(41041101s@gapps.ntnu.edu.tw)</span>
 * 呂卓穎 <span style="font-size:80%;">(jefflujefflu@gmail.com)</span>
+* 陳郁安 <span style="font-size:80%;">(jefflujefflu@gmail.com)</span>
+* 曾柏叡 <span style="font-size:80%;">(ff9418290@gmail.com)</span>
 
 # Alumni
 
+* Ching-Yang Pan 潘敬揚
+  * 2024 Master
+  * ⟹  R&D Device Engineer @ PSMC (力積電)
+* 邱久翔
+  * 2024 Bachelor
+  * ⟹  Master's program @ NYCU Electrophysics
+* 林士凱
+  * 2024 Bachelor
+  * ⟹  Master's program @ NTHU Physics
 * 陳可桀
   * 2023 Master
+  * ⟹  Military service
+  * ⟹  Product Development Engineer @ Tyntek (鼎元光電)
 * 熊軒諒
   * 2023 Master
+  * ⟹  Optical Engineer @ EPIC (高準精密)
 * 吳承恩
   * 2023 Master
 * 蔡和家
