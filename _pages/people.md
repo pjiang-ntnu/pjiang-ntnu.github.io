@@ -55,6 +55,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 * 呂卓穎 <span style="font-size:80%;">(jefflujefflu@gmail.com)</span>
 * 陳郁安 <span style="font-size:80%;">(jefflujefflu@gmail.com)</span>
 * 曾柏叡 <span style="font-size:80%;">(ff9418290@gmail.com)</span>
+* 陳宥愷 <span style="font-size:80%;">(41342134s@gapps.ntnu.edu.tw)</span>
 
 # Alumni
 
