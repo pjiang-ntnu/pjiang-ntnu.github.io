@@ -33,6 +33,8 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 ----------------------
 
 <ol reversed>
+<li> C.-Y. Pan, S.-K. Lin, Y.-A. Chen, and <b>P. Jiang</b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN HEMTs, under review of IEEE Trans. Electron Devices.
+
 <li> W.-C. Lin, P.-Y. Tsai, J.-Z. Zou, J.-Y. Lee, C.-W. Kuo, H.-. Lee, C.-Y. Pan, C.-H. Yang, S.-Z. Chen, J.-S. Wang*, <b>P. Jiang</b>*, C.-T. Liang*, and C. Chuang*, Chiral anomaly and Weyl orbit in three-dimensional Dirac semimetal Cd<sub>3</sub>As<sub>2</sub> grown on Si, Nanotechnology <b>35</b>, 165002 (2024).
 
 <li> W.-H. Wang, C.-Y. Pan, C.-M. Liu, W.-C. Lin*, and <b>P. Jiang</b>*, Chirality-Induced Noncollinear Magnetization and Asymmetric Domain-Wall Propagation in Hydrogenated CoPd Thin Films, ACS Appl. Mater. Interfaces <b>14</b>, 20151 (2022). (邀請演講<a href="https://drive.google.com/file/d/1fOm8GiVJSlHF7kvDjN13logfFPzAM3z9/view">影片</a>)
