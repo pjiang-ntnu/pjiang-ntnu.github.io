@@ -33,7 +33,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 ----------------------
 
 <ol reversed>
-<li> C.-Y. Pan, S.-K. Lin, Y.-A. Chen, and <b>P. Jiang</b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN HEMTs, under review of IEEE Trans. Electron Devices.
+<li> C.-Y. Pan, S.-K. Lin, Y.-A. Chen, and <b>P. Jiang</b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN HEMTs, under review.
 
 <li> W.-C. Lin, P.-Y. Tsai, J.-Z. Zou, J.-Y. Lee, C.-W. Kuo, H.-. Lee, C.-Y. Pan, C.-H. Yang, S.-Z. Chen, J.-S. Wang*, <b>P. Jiang</b>*, C.-T. Liang*, and C. Chuang*, Chiral anomaly and Weyl orbit in three-dimensional Dirac semimetal Cd<sub>3</sub>As<sub>2</sub> grown on Si, Nanotechnology <b>35</b>, 165002 (2024).
 
