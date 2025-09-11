@@ -41,24 +41,25 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 # PhD Students
 
+* 廖晉 <span style="font-size:80%;">(81441004s@gapps.ntnu.edu.tw)</span>
 
 # Master Students
 
-* 廖晉 <span style="font-size:80%;">(61041034s@gapps.ntnu.edu.tw)</span>
 * 陳冠霖 <span style="font-size:80%;">(davidkevin1165@gmail.com)</span>
 * 王同 <span style="font-size:80%;">(john9243257@gmail.com)</span>
-
+* 陳郁安 <span style="font-size:80%;">(chaniuanariel@gmail.com)</span>
+* 李彬華 <span style="font-size:80%;">(ycnkyai0902@gmail.com)</span>
 
 # Undergraduate Students
 
-* 尤仁宏 <span style="font-size:80%;">(41041101s@gapps.ntnu.edu.tw)</span>
 * 呂卓穎 <span style="font-size:80%;">(jefflujefflu@gmail.com)</span>
-* 陳郁安 <span style="font-size:80%;">(chaniuanariel@gmail.com)</span>
 * 曾柏叡 <span style="font-size:80%;">(ff9418290@gmail.com)</span>
-* 陳宥愷 <span style="font-size:80%;">(41342134s@gapps.ntnu.edu.tw)</span>
 
 # Alumni
 
+* Ching-Yang Pan 尤仁宏
+  * 2025 Bachelor
+  * ⟹  Master's program @ NTHU Physics
 * Ching-Yang Pan 潘敬揚
   * 2024 Master
   * ⟹  R&D Device Engineer @ PSMC (力積電)
