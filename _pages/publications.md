@@ -35,7 +35,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <ol reversed>
 <li> CY Pan, SK Lin, YA Chen, and <b>P Jiang</b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN HEMTs, accepted by Phys. Rev. Appl.
 
-<li> WC Lin, SZ Chen, YC Lai, HC Yeh, HT Chin, DC Wang, MC Shih, FC Chuang*, M Hofmann, C Chuang, P Jiang, YP Hsieh*, and CT Liang*, Resistance Hysteresis in Paramagnetic Tungsten Nitride (W<sub>5</sub>N<sub>6</sub>), accepted by Appl. Phys. Lett. (Editor's Pick).
+<li> WC Lin, SZ Chen, YC Lai, HC Yeh, HT Chin, DC Wang, MC Shih, FC Chuang*, M Hofmann, C Chuang, <b>P Jiang</b>b>, YP Hsieh*, and CT Liang*, Resistance Hysteresis in Paramagnetic Tungsten Nitride (W<sub>5</sub>N<sub>6</sub>), accepted by Appl. Phys. Lett. (Editor's Pick).
 
 <li> RG Tanguturi, PY Tsai, GT Pan, <b>P Jiang</b>, JS Tsay*, Magnetic dynamics and magnetic domain formation of Co<sub>2</sub>Ni/Si(100) films, J. Alloys Compd. <b>1036</b>, 181987 (2025).
 
