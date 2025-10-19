@@ -33,7 +33,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 ----------------------
 
 <ol reversed>
-<li> CY Pan, SK Lin, YA Chen, and <b>P Jiang</b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN HEMTs, accepted by Phys. Rev. Applied.
+<li> CY Pan, SK Lin, YA Chen, and <b>P Jiang</b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN HEMTs, Phys. Rev. Applied, <b>24</b>, 044018 (2025).
 
 <li> WC Lin, SZ Chen, YC Lai, HC Yeh, HT Chin, DC Wang, MC Shih, FC Chuang*, M Hofmann, C Chuang, <b>P Jiang</b>, YP Hsieh*, and CT Liang*, Resistance Hysteresis in Paramagnetic Tungsten Nitride (W<sub>5</sub>N<sub>6</sub>), Appl. Phys. Lett. <b>127</b>, 053103 (2025). (Editor's Pick).
 
