@@ -33,6 +33,8 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 ----------------------
 
 <ol reversed>
+<li> YK Liao, KC Chiu, J Chien, HB Lu, C Liao, <b>P Jiang</b>*, and MT Lin*, Asymmetric proximity effect of interlayer exchange coupling in CoFe/NiFe bilayer systems probed by optical mode ferromagnetic resonance, under review.
+
 <li> CY Pan, SK Lin, YA Chen, and <b>P Jiang</b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN HEMTs, Phys. Rev. Applied, <b>24</b>, 044018 (2025).
 
 <li> WC Lin, SZ Chen, YC Lai, HC Yeh, HT Chin, DC Wang, MC Shih, FC Chuang*, M Hofmann, C Chuang, <b>P Jiang</b>, YP Hsieh*, and CT Liang*, Resistance Hysteresis in Paramagnetic Tungsten Nitride (W<sub>5</sub>N<sub>6</sub>), Appl. Phys. Lett. <b>127</b>, 053103 (2025). (Editor's Pick).
@@ -41,7 +43,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <li> WC Lin, PY Tsai, JZ Zou, JY Lee, CW Kuo, HH Lee, CY Pan, CH Yang, SZ Chen, JS Wang*, <b>P Jiang</b>*, CT Liang*, and C Chuang*, Chiral anomaly and Weyl orbit in three-dimensional Dirac semimetal Cd<sub>3</sub>As<sub>2</sub> grown on Si, Nanotechnology <b>35</b>, 165002 (2024).
 
-<li> WH Wang, CY Pan, CM Liu, WC Lin*, and <b>P Jiang</b>*, Chirality-Induced Noncollinear Magnetization and Asymmetric Domain-Wall Propagation in Hydrogenated CoPd Thin Films, ACS Appl. Mater. Interfaces <b>14</b>, 20151 (2022). (邀請演講<a href="https://drive.google.com/file/d/1fOm8GiVJSlHF7kvDjN13logfFPzAM3z9/view">影片</a>)
+<li> WH Wang, CY Pan, CM Liu, WC Lin*, and <b>P Jiang</b>*, Chirality-Induced Noncollinear Magnetization and Asymmetric Domain-Wall Propagation in Hydrogenated CoPd Thin Films, ACS Appl. Mater. Interfaces <b>14</b>, 20151 (2022). (磁性年會邀請演講<a href="https://drive.google.com/file/d/1Bm67TKpAgCeuRMwES01NhRWi29bmtQPM/view">影片</a>)
 
 <li> WH Wang, YS Cheng, HS Sheu, WC Lin*, and <b>P Jiang</b>*, Exchange-bias dependent diffusion rate of hydrogen discovered from evolution of hydrogen-induced noncollinear magnetic anisotropy in FePd thin films, Phys. Rev. B <b>104</b>, 224420 (2021).
 	
