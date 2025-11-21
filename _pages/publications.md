@@ -77,6 +77,6 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <li> P Guyot-Sionnest*, D Yu, <b><ins>P Jiang</ins></b>, and W Kang, Spin blockade in the conduction of colloidal CdSe nanocrystal films, J. Chem. Phys. <b>127</b>, 014702 (2007).
 
-<li> <b>P Jiang</b>*, I Yang, W Kang, LN Pfeiffer, KW Baldwin, and KW West, Low energy dynamics of two-dimensional lateral tunnel junctions, Proceedings of the 16th International Conference on Electronic Properties of Two-Dimensional Systems (EP2DS-16), Physica E <b>34</b>, 203 (2006).
+<li> <b><ins>P Jiang</ins></b>*, I Yang, W Kang, LN Pfeiffer, KW Baldwin, and KW West, Low energy dynamics of two-dimensional lateral tunnel junctions, Proceedings of the 16th International Conference on Electronic Properties of Two-Dimensional Systems (EP2DS-16), Physica E <b>34</b>, 203 (2006).
 
-<li> <b>P Jiang</b>*, I Yang, W Kang, LN Pfeiffer, KW Baldwin, and KW West, Interaction effects and pseudogap in two-dimensional lateral tunnel junctions, Phys. Rev. Lett. <b>96</b>, 126804 (2006).
+<li> <b><ins>P Jiang</ins></b>*, I Yang, W Kang, LN Pfeiffer, KW Baldwin, and KW West, Interaction effects and pseudogap in two-dimensional lateral tunnel junctions, Phys. Rev. Lett. <b>96</b>, 126804 (2006).
