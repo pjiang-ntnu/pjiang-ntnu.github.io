@@ -33,7 +33,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 ----------------------
 
 <ol reversed>
-<li> YK Liao, KC Chiu, J Chien, HB Lu, C Liao, <b><u>P Jiang</u></b>*, and MT Lin*, Asymmetric proximity effect of interlayer exchange coupling in CoFe/NiFe bilayer systems probed by optical mode ferromagnetic resonance, under review.
+<li> <b>YK Liao</b>, KC Chiu, J Chien, HB Lu, C Liao, <b><u>P Jiang</u></b>*, and MT Lin*, Asymmetric proximity effect of interlayer exchange coupling in CoFe/NiFe bilayer systems probed by optical mode ferromagnetic resonance, under review.
 
 <li> CY Pan, SK Lin, YA Chen, and <b><u>P Jiang</u></b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN HEMTs, Phys. Rev. Applied, <b>24</b>, 044018 (2025).
 
