@@ -35,7 +35,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <ol reversed>
 <li> YK Liao, KC Chiu, J Chien, HB Lu, C Liao, <b><ins>P Jiang</ins></b>*, and MT Lin*, Asymmetric proximity effect of interlayer exchange coupling in CoFe/NiFe bilayer systems probed by optical mode ferromagnetic resonance, under review.
 
-<li> CY Pan, SK Lin, YA Chen, and <b><ins>P Jiang</ins></b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN HEMTs, Phys. Rev. Applied, <b>24</b>, 044018 (2025).
+<li> CY Pan, SK Lin, YA Chen, and <b><ins>P Jiang</ins></b>*, Cryogenic Temperature Dependence and Hysteresis of Surface-Trap-Induced Gate Leakage in GaN high-electron-mobility transistors, Phys. Rev. Applied, <b>24</b>, 044018 (2025).
 
 <li> WC Lin, SZ Chen, YC Lai, HC Yeh, HT Chin, DC Wang, MC Shih, FC Chuang*, M Hofmann, C Chuang, <b><ins>P Jiang</ins></b>, YP Hsieh*, and CT Liang*, Resistance Hysteresis in Paramagnetic Tungsten Nitride (W<sub>5</sub>N<sub>6</sub>), Appl. Phys. Lett. <b>127</b>, 053103 (2025). (Editor's Pick).
 
